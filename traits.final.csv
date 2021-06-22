@@ -1,0 +1,163 @@
+Taxa,MaxLength,Trophic.group,Water.column,Diel.Activity,Habitat,Gregariousness,Trophic.group2
+Abudefduf.hoefleri,20,Omnivore,Demersal,Day,coral,3,Primary consumers
+Abudefduf.saxatilis,22.9,Planktivore,Demersal,Day,coral,3,Planktivore
+Abudefduf.taurus,25,Planktivore,Demersal,Day,coral,3,Planktivore
+Acanthurus.monroviae,45,Browsing herbivore,Demersal,Day,coral,1,Primary consumers
+Aluterus.scriptus,110,Omnivore,Demersal,Day,coral,1,Primary consumers
+Ammodytes.tobianus,20,Planktivore,benthic,Day,sand,2,Planktivore
+Ammodytidae.spp,20,Planktivore,benthic,Day,sand,2,Planktivore
+Anguilla.anguilla,121.5,Higher carnivore,benthic,Night,sand,1,Higher carnivore
+Antennarius.spp,23,Higher carnivore,benthic,Day,rock,1,Higher carnivore
+Aulostomus.strigosus,75,Higher carnivore,Demersal,Day,rock,1,Higher carnivore
+Balistes.capriscus,60,Benthic invertivore,Demersal,Day,sand,1,Invertivores
+Balistes.punctatus,60,Benthic invertivore,Demersal,Day,sand,1,Invertivores
+Belone.belone,93,Higher carnivore,pelagic non-site attached,Day,water column,2,Higher carnivore
+Bodianus.scrofa,43,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Bodianus.speciosus,50,Benthic invertivore,Demersal,Day,coral,1,Invertivores
+Bothus.podas,45,Benthic invertivore,benthic,Day,sand,1,Invertivores
+Cantherhines.pullus,20,Omnivore,Demersal,Day,coral,1,Primary consumers
+Canthidermis.sufflamen,65,Benthic invertivore,Demersal,Day,coral,1,Invertivores
+Canthigaster.capistrata,22,Omnivore,Demersal,Day,rock,1,Primary consumers
+Canthigaster.supramacula,3.9,Omnivore,Demersal,Day,coral,1,Primary consumers
+Centrolabrus.exoletus,18,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Cephalopholis.nigri,30.5,Higher carnivore,Demersal,Day,coral,1,Higher carnivore
+Cephalopholis.taeniops,70,Higher carnivore,Demersal,Day,coral,1,Higher carnivore
+Chaetodon.robustus,14.5,Benthic invertivore,Demersal,Day,coral,1,Invertivores
+Chelon.labrosus,75,Omnivore,pelagic site attached,Day,sand,3,Primary consumers
+Chilomycterus.reticulatus,55,Benthic invertivore,Demersal,Day,coral,1,Invertivores
+Chirolophis.ascanii,25,Benthic invertivore,benthic,Night,rock,1,Invertivores
+Chromis.cadenati,16.5,Planktivore,Demersal,Day,coral,3,Planktivore
+Chromis.chromis,25,Planktivore,Demersal,Day,rock,3,Planktivore
+Chromis.limbata,12,Planktivore,Demersal,Day,rock,3,Planktivore
+Chromis.lubbocki,12.5,Planktivore,Demersal,Day,coral,3,Planktivore
+Chromis.multilineata,20,Planktivore,Demersal,Day,coral,3,Planktivore
+Cirrhitus.atlanticus,16,Benthic invertivore,benthic,Day,coral,1,Invertivores
+Clepticus.africanus,30,Planktivore,Demersal,Day,coral,3,Planktivore
+Coris.atlantica,30,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Coris.julis,30,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Ctenolabrus.rupestris,18,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Dentex.dentex,100,Higher carnivore,Demersal,Day,rock,1,Higher carnivore
+Dicentrarchus.labrax,103,Higher carnivore,pelagic non-site attached,Day,water column,2,Higher carnivore
+Diodon.holocanthus,50,Benthic invertivore,Demersal,Day,coral,1,Invertivores
+Diplodus.annularis,35,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Diplodus.cervinus,44,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Diplodus.fasciatus,45,Omnivore,Demersal,Day,rock,2,Primary consumers
+Diplodus.lineatus,35,Omnivore,Demersal,Day,rock,2,Primary consumers
+Diplodus.prayensis,35,Omnivore,Demersal,Day,rock,2,Primary consumers
+Diplodus.puntazzo,60,Omnivore,Demersal,Day,rock,2,Primary consumers
+Diplodus.sargus,44,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Diplodus.vulgaris,45,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Engraulis.encrasicolus,20,Planktivore,pelagic non-site attached,Day,water column,3,Planktivore
+Epinephelus.adscensionis,61,Higher carnivore,Demersal,Day,coral,1,Higher carnivore
+Epinephelus.marginatus,150,Higher carnivore,Demersal,Day,rock,1,Higher carnivore
+Eutrigla.gurnardus,60,Benthic invertivore,benthic,Night,sand,1,Invertivores
+Fistularia.tabacaria,200,Higher carnivore,Demersal,Day,coral,1,Higher carnivore
+Gadus.morhua,200,Higher carnivore,Demersal,Night,rock,2,Higher carnivore
+Gasterosteus.aculeatus,18,Planktivore,benthic,Day,rock,3,Planktivore
+Gymnothorax.afer,100,Higher carnivore,benthic,Night,coral,1,Higher carnivore
+Gymnothorax.miliaris,70,Benthic invertivore,benthic,Night,coral,1,Invertivores
+Gymnothorax.unicolor,100,Benthic invertivore,benthic,Night,rock,1,Invertivores
+Gymnothorax.vicinus,122,Higher carnivore,benthic,Night,rock,1,Higher carnivore
+Heteroconger.longissimus,51,Planktivore,benthic,Day,sand,1,Planktivore
+Heteropriacanthus.cruentatus,50.7,Higher carnivore,Demersal,Night,coral,2,Higher carnivore
+Holacanthus.africanus,45,Higher carnivore,Demersal,Day,coral,1,Higher carnivore
+Holocentrus.adscensionis,61,Benthic invertivore,Demersal,Night,coral,2,Invertivores
+Kyphosus.incisor,90,Browsing herbivore,pelagic site attached,Day,coral,3,Primary consumers
+Kyphosus.sectatrix,76,Browsing herbivore,pelagic site attached,Day,rock,3,Primary consumers
+Kyphosus.spp,68.3,Browsing herbivore,pelagic site attached,Day,rock,3,Primary consumers
+Labrus.bergylta,65.9,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Labrus.merula,45,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Labrus.mixtus,40,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Labrus.viridis,47,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Liparis.montagui,12,Benthic invertivore,benthic,Night,rock,1,Invertivores
+Liza.aurata,59,Browsing herbivore,pelagic non-site attached,Day,sand,3,Primary consumers
+Lutjanus.agennes,139,Higher carnivore,Demersal,Day,coral,2,Higher carnivore
+Lutjanus.fulgens,60,Higher carnivore,Demersal,Day,coral,2,Higher carnivore
+Lutjanus.goreensis,80,Higher carnivore,Demersal,Day,coral,2,Higher carnivore
+Lutjanus.griseus,89,Higher carnivore,Demersal,Day,coral,2,Higher carnivore
+Melichthys.niger,50,Planktivore,Demersal,Day,coral,2,Planktivore
+Microspathodon.frontatus,17,Algal farmer,Demersal,Day,coral,1,Primary consumers
+Molva.molva,200,Higher carnivore,Demersal,Night,rock,1,Higher carnivore
+Mugil.cephalus,100,Omnivore,pelagic site attached,Day,sand,3,Primary consumers
+Mugilid.spp,68,Omnivore,pelagic site attached,Day,sand,3,Primary consumers
+Mugilidae.spp,68,Omnivore,pelagic site attached,Day,water column,3,Primary consumers
+Mulloidichthys.martinicus,39.4,Benthic invertivore,Demersal,Day,sand,3,Invertivores
+Mullus.surmuletus,40,Benthic invertivore,Demersal,Day,sand,2,Invertivores
+Muraena.augusti,120,Benthic invertivore,benthic,Night,rock,1,Invertivores
+Muraena.melanotis,100,Higher carnivore,benthic,Night,rock,1,Higher carnivore
+Muraena.robusta,150,Higher carnivore,benthic,Night,rock,1,Higher carnivore
+Muraena.spp,112.75,Benthic invertivore,benthic,Night,rock,1,Invertivores
+Mycteroperca.fusca,80,Higher carnivore,Demersal,Day,rock,1,Higher carnivore
+Myrichthys.pardalis,64.8,Benthic invertivore,benthic,Night,sand,1,Invertivores
+Myripristis.jacobus,25,Planktivore,Demersal,Night,coral,2,Planktivore
+Oblada.melanura,34,Benthic invertivore,pelagic site attached,Day,rock,2,Invertivores
+Pagellus.acarne,36,Benthic invertivore,pelagic site attached,Day,rock,3,Invertivores
+Pagellus.erythrinus,60,Benthic invertivore,Demersal,Day,rock,3,Invertivores
+Pagellus.spp,48,Benthic invertivore,Demersal,Day,rock,3,Invertivores
+Pagrus.auriga,80,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Pagrus.pagrus,91,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Paranthias.furcifer,30,Planktivore,pelagic site attached,Day,coral,2,Planktivore
+Parapristipoma.humile,37.5,Higher carnivore,Demersal,Night,rock,2,Higher carnivore
+Parapristipoma.octolineatum,50,Benthic invertivore,Demersal,Night,rock,2,Invertivores
+Pholis.gunnellus,25,Planktivore,benthic,Day,rock,1,Planktivore
+Platybelone.spp,50,Higher carnivore,pelagic non-site attached,Day,water column,2,Higher carnivore
+Pleuronectes.platessa,100,Benthic invertivore,benthic,Night,sand,1,Invertivores
+Pollachius.pollachius,130,Higher carnivore,Demersal,Night,rock,2,Higher carnivore
+Pollachius.virens,130,Higher carnivore,Demersal,Night,rock,2,Higher carnivore
+Pomadasys.incisus,50,Benthic invertivore,Demersal,Night,rock,3,Invertivores
+Priacanthus.arenatus,50,Higher carnivore,benthic,Night,coral,2,Higher carnivore
+Prionurus.biafraensis,20,Browsing herbivore,Demersal,Day,coral,3,Primary consumers
+Pseudupeneus.prayensis,55,Benthic invertivore,Demersal,Day,sand,2,Invertivores
+Rypticus.saponaceus,35,Higher carnivore,Demersal,Day,coral,1,Higher carnivore
+Sargocentron.hastatum,27.9,Benthic invertivore,Demersal,Night,coral,2,Invertivores
+Sarpa.salpa,51,Browsing herbivore,Demersal,Day,rock,3,Primary consumers
+Scarus.hoefleri,66,Scraping herbivore,Demersal,Day,coral,2,Primary consumers
+Sciaena.umbra,70,Higher carnivore,benthic,Night,rock,3,Higher carnivore
+Scorpaena.canariensis,14,Benthic invertivore,benthic,Day,rock,1,Invertivores
+Scorpaena.laevis,35,Higher carnivore,benthic,Day,rock,1,Higher carnivore
+Scorpaena.maderensis,14,Benthic invertivore,benthic,Day,rock,1,Invertivores
+Scorpaena.porcus,37,Higher carnivore,benthic,Day,rock,1,Higher carnivore
+Scorpaena.spp,32.14,Higher carnivore,benthic,Day,rock,1,Higher carnivore
+Serranus.atricauda,43.2,Higher carnivore,Demersal,Day,rock,1,Higher carnivore
+Serranus.cabrilla,40,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Serranus.hepatus,25,Higher carnivore,Demersal,Day,rock,1,Higher carnivore
+Serranus.heterurus,38.7,Higher carnivore,Demersal,Day,rock,1,Higher carnivore
+Serranus.scriba,36,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Serranus.spp,32.47,Higher carnivore,Demersal,Day,rock,1,Higher carnivore
+Similiparma.hermani,16,Planktivore,Demersal,Day,rock,1,Planktivore
+Similiparma.lurida,15,Planktivore,Demersal,Day,rock,3,Planktivore
+Solea.solea,70,Benthic invertivore,benthic,Night,sand,1,Invertivores
+Sparisoma.choati,31.4,Browsing herbivore,Demersal,Day,rock,2,Primary consumers
+Sparisoma.cretense,50,Scraping herbivore,Demersal,Day,rock,2,Primary consumers
+Sparisoma.frondosum,34.5,Scraping herbivore,Demersal,Day,coral,2,Primary consumers
+Sparisoma.rubripinne,47.8,Scraping herbivore,Demersal,Day,coral,2,Primary consumers
+Sphoeroides.marmoratus,20,Browsing herbivore,Demersal,Day,sand,1,Primary consumers
+Sphyraena.barracuda,200,Higher carnivore,pelagic non-site attached,Day,water column,3,Higher carnivore
+Sphyraena.viridensis,128,Higher carnivore,pelagic non-site attached,Day,water column,3,Higher carnivore
+Spicara.melanurus,32.8,Benthic invertivore,pelagic site attached,Day,water column,3,Invertivores
+Spicara.nigricauda,20,Planktivore,pelagic site attached,Day,water column,3,Planktivore
+Spondyliosoma.cantharus,60,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Stegastes.imbricatus,10,Algal farmer,Demersal,Day,coral,1,Primary consumers
+Stegastes.spp,12,Algal farmer,Demersal,Day,coral,1,Primary consumers
+Stephanolepis.hispidus,27.5,Omnivore,Demersal,Day,rock,1,Primary consumers
+Symphodus.bailloni,22,Benthic invertivore,benthic,Day,rock,1,Invertivores
+Symphodus.cinereus,16,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Symphodus.melops,30,Benthic invertivore,benthic,Day,rock,1,Benthic invertivore
+Symphodus.ocellatus,12,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Symphodus.roissali,17,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Symphodus.spp,20.6,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Symphodus.tinca,44,Benthic invertivore,Demersal,Day,rock,2,Invertivores
+Symphodus.trutta,18,Benthic invertivore,Demersal,Day,rock,1,Invertivores
+Synodus.saurus,40,Higher carnivore,benthic,Day,rock,1,Higher carnivore
+Synodus.spp,26.09,Higher carnivore,benthic,Day,sand,1,Higher carnivore
+Synodus.synodus,33,Higher carnivore,benthic,Day,sand,1,Higher carnivore
+Taurulus.bubalis,17.5,Benthic invertivore,benthic,Day,rock,1,Invertivores
+Thalassoma.newtoni,25,Omnivore,Demersal,Day,coral,2,Primary consumers
+Thalassoma.pavo,25,Planktivore,Demersal,Day,rock,2,Planktivore
+Trisopterus.luscus,46,Higher carnivore,Demersal,Day,rock,2,Higher carnivore
+Trisopterus.minutus,40,Benthic invertivore,Demersal,Night,rock,2,Invertivores
+Trisopterus.spp,40,Higher carnivore,Demersal,Day,rock,2,Higher carnivore
+Virididentex.acromegalus,52,Higher carnivore,Demersal,Day,rock,1,Higher carnivore
+Xyrichtys.novacula,38,Benthic invertivore,Demersal,Day,sand,1,Invertivores
+Zeugopterus.punctatus,25,Benthic invertivore,benthic,Night,sand,1,Invertivores
+Zeugopterus.regius,20,Benthic invertivore,benthic,Night,sand,1,Invertivores
