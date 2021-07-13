@@ -16,4 +16,5 @@ Files include:
 
 Please cite:
 
-- Bosch et al. 2021. Niche and neutral assembly mechanisms contribute to latitudinal diversity gradients in reef fishes. Journal of Biogeography -  if data and/or code is used (or alternatively this GitHub repository).
+- Bosch et al. 2021. Niche and neutral assembly mechanisms contribute to latitudinal diversity gradients in reef fishes. Journal of Biogeography -  if data and/or code is used (or alternatively this GitHub repository, https://zenodo.org/badge/379161223.svg).
+
