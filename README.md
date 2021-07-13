@@ -13,3 +13,7 @@ Files include:
 (4) Computed diversity indices (and SES values) at each site + covariates used in the models (diversity.25052021.csv)
 
 (5) Additional information on data compiled for the North East Atlantic (Support Data.xlsx)
+
+Please cite:
+
+- Bosch et al. 2021. Niche and neutral assembly mechanisms contribute to latitudinal diversity gradients in reef fishes. Journal of Biogeography -  if data and/or code is used (or alternatively this GitHub repository).
